@@ -23,7 +23,7 @@
  <h1 Style="color:black;"> do it <%= username %>!</h1>
     <div class="Links">
       <a href="logout">LOGOUT</a>
-      <a href="index.html">Home</a>  
+      <a href="index.html">Home</a>
       <a href="delete.jsp"style="background-color:red;">Delete Account</a>
       </div>
     
