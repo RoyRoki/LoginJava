@@ -1,7 +1,7 @@
 LoginUI (feel free to replace with your actual project name)
 This web application allows users to register for accounts, log in securely, log out, and delete their accounts. It's built with Java on the backend and utilizes JSP, Servlets, and MySQL for functionality.
 
-Features: (Updated)
+Features: (Updat2)
 
 Secure user registration
 Login and logout functionality
